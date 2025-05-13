@@ -1,0 +1,23 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.Mapory" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Customize your theme here -->
+        <!-- Example: -->
+        <!-- <item name="colorPrimary">@color/your_primary_color</item> -->
+        <!-- <item name="colorPrimaryVariant">@color/your_variant_color</item> -->
+        <!-- <item name="colorOnPrimary">@color/white</item> -->
+    </style>
+
+    <style name="Theme.Mapory" parent="Base.Theme.Mapory" />
+
+    <!-- Optional: Custom NoActionBar Theme for any legacy screens -->
+    <style name="CustomNoActionBarTheme" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:statusBarColor">@color/colorPrimaryDark</item>
+    </style>
+
+    <!-- Toolbar Styling -->
+    <style name="CustomToolbarStyle">
+        <item name="android:textColorPrimary">@color/white</item>
+        <item name="android:colorControlNormal">@color/white</item>
+    </style>
+
+</resources>

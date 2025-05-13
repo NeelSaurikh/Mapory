@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="colorPrimary">#4b86b4</color>
+    <color name="colorAccent">#abcbe3</color>
+
+    <color name="primary_text_color">#212121</color>
+    <color name="secondary_text_color">#9AA2AF</color>
+    <color name="white_color">#FFFFFF</color>
+    <color name="button_background_color">#63ace5</color>
+
+
+    <color name="circular_image_border_color">#757575</color>
+    <color name="item_happy_place_description_text_color">#606060</color>
+
+    <color name="detail_screen_description_text_color">#757575</color>
+    <!-- Primary colors -->
+    <color name="md_theme_primary">#3F51B5</color> <!-- Example: Indigo -->
+    <color name="md_theme_onPrimary">#FFFFFF</color> <!-- White text/icon on primary -->
+    <color name="md_theme_primaryContainer">#C5CAE9</color> <!-- Lighter shade for containers -->
+    <color name="md_theme_onPrimaryContainer">#1A237E</color> <!-- Dark text on container -->
+
+    <!-- Secondary colors -->
+    <color name="md_theme_secondary">#0288D1</color> <!-- Example: Blue -->
+    <color name="md_theme_onSecondary">#FFFFFF</color>
+    <color name="md_theme_secondaryContainer">#B3E5FC</color>
+    <color name="md_theme_onSecondaryContainer">#01579B</color>
+
+    <!-- Surface and background -->
+    <color name="md_theme_surface">#FFFFFF</color> <!-- White background -->
+    <color name="md_theme_onSurface">#212121</color> <!-- Dark text on surface -->
+    <color name="md_theme_background">#F5F5F5</color> <!-- Slightly off-white background -->
+    <color name="md_theme_onBackground">#212121</color>
+
+    <!-- Error -->
+    <color name="md_theme_error">#D32F2F</color>
+    <color name="md_theme_onError">#FFFFFF</color>
+
+    <!-- Status bar (legacy) -->
+    <color name="colorPrimaryDark">#303F9F</color>
+</resources>
