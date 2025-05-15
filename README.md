@@ -3,6 +3,8 @@
 Mapory is an intuitive Android app that lets you **save and revisit memorable places** using Google Maps.  
 Whether it's a hidden cafe, a scenic view, or a travel destination, Mapory helps you **remember and relive your adventures** with just a tap.
 
+Just be aware in the next release there will be more features in this 
+
 ---
 
 ## 📸 Screenshots
