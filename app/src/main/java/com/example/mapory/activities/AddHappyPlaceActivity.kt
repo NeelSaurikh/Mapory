@@ -17,6 +17,7 @@ import android.os.Bundle
 import android.os.Looper
 import android.provider.MediaStore
 import android.provider.Settings
+import android.util.Config
 import android.util.Log
 import android.view.View
 import android.widget.Toast
@@ -24,6 +25,7 @@ import androidx.activity.result.contract.ActivityResultContracts
 import androidx.annotation.RequiresApi
 import androidx.appcompat.app.AlertDialog
 import androidx.appcompat.app.AppCompatActivity
+import com.android.volley.BuildConfig
 import com.example.mapory.R
 import com.example.mapory.database.DatabaseHandler
 import com.example.mapory.databinding.ActivityAddHappyPlaceBinding
@@ -45,6 +47,7 @@ import java.io.IOException
 import java.io.OutputStream
 import java.text.SimpleDateFormat
 import java.util.*
+
 
 class AddHappyPlaceActivity : AppCompatActivity(), View.OnClickListener {
 

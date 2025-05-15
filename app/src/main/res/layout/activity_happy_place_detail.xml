@@ -10,7 +10,7 @@
         android:id="@+id/toolbar_happy_place_detail"
         android:layout_width="match_parent"
         android:layout_height="?attr/actionBarSize"
-        android:background="@color/purple_500"
+        android:background="@color/colorPrimary"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
@@ -62,16 +62,16 @@
                 android:layout_marginStart="@dimen/detail_screen_location_marginStartEnd"
                 android:layout_marginTop="@dimen/detail_screen_location_marginTop"
                 android:layout_marginEnd="@dimen/detail_screen_location_marginStartEnd"
-                android:textColor="@color/teal_200"
+                android:textColor="@color/black"
                 android:textSize="@dimen/detail_screen_location_text_size"
-                android:textStyle="bold"
+                android:textStyle="italic"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintHorizontal_bias="0.533"
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintTop_toBottomOf="@+id/tv_description"
                 tools:text="Location" />
 
-            <Button
+            <androidx.appcompat.widget.AppCompatButton
                 android:id="@+id/btn_view_on_map"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -89,7 +89,8 @@
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintHorizontal_bias="1.0"
                 app:layout_constraintStart_toStartOf="parent"
-                app:layout_constraintTop_toBottomOf="@+id/tv_location" />
+                app:layout_constraintTop_toBottomOf="@+id/tv_location"
+                />
 
         </androidx.constraintlayout.widget.ConstraintLayout>
     </ScrollView>

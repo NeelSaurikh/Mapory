@@ -46,7 +46,9 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:layout_gravity="bottom|end"
-            android:padding="@dimen/fab_margin">
+            android:padding="@dimen/fab_margin"
+
+            >
 
             <com.google.android.material.floatingactionbutton.FloatingActionButton
                 android:id="@+id/addPlace"
@@ -56,7 +58,7 @@
                 android:layout_marginBottom="140dp"
                 android:visibility="gone"
                 app:srcCompat="@drawable/ic_add_place_24"
-                app:backgroundTint="@color/colorPrimaryDark" />
+                app:backgroundTint="@color/colorPrimary" />
 
             <com.google.android.material.floatingactionbutton.FloatingActionButton
                 android:id="@+id/checkweather"
@@ -66,7 +68,7 @@
                 android:layout_marginBottom="70dp"
                 android:visibility="gone"
                 app:srcCompat="@drawable/ic_cloud_weather_24dp"
-                app:backgroundTint="@color/colorPrimaryDark" />
+                app:backgroundTint="@color/colorPrimary" />
 
             <com.google.android.material.floatingactionbutton.FloatingActionButton
                 android:id="@+id/fabAddHappyPlace"
@@ -74,7 +76,8 @@
                 android:layout_height="wrap_content"
                 android:layout_gravity="bottom|end"
                 app:srcCompat="@drawable/ic_action_add_24dp"
-                app:backgroundTint="@color/colorPrimaryDark" />
+                app:backgroundTint="@color/colorPrimary"
+            />
         </FrameLayout>
     </FrameLayout>
 </LinearLayout>
