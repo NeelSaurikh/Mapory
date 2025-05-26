@@ -8,6 +8,7 @@ import android.util.Log
 import android.view.View
 import android.widget.LinearLayout
 import android.widget.Toast
+import androidx.activity.result.contract.ActivityResultContracts
 import androidx.appcompat.app.AppCompatActivity
 import androidx.appcompat.widget.Toolbar
 import androidx.recyclerview.widget.ItemTouchHelper
@@ -67,7 +68,8 @@ class MainActivity : AppCompatActivity() {
         }
 
         checkweather.setOnClickListener {
-            Toast.makeText(this, "Weather Selection Will Come in Next Update", Toast.LENGTH_SHORT).show()
+            val intent = Intent(this, WeatherActivity::class.java)
+            startActivity(intent)
         }
 
     }
