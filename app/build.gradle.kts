@@ -45,6 +45,11 @@ dependencies {
     implementation("com.google.android.gms:play-services-location:17.0.0")
     implementation("de.hdodenhof:circleimageview:3.1.0")
     implementation("com.karumi:dexter:6.2.3")
+    implementation("com.karumi:dexter:6.2.3")
+    implementation("com.karumi:dexter:6.2.3")
+    implementation(libs.retrofit)
+    implementation(libs.converter.gson)
+
     implementation(libs.material.v1120)
     implementation(libs.circleimageview)
     implementation(libs.androidx.core.ktx)
