@@ -1,0 +1,6 @@
+<rotate xmlns:android="http://schemas.android.com/apk/res/android"
+    android:duration="300"
+    android:fromDegrees="135"
+    android:toDegrees="0"
+    android:pivotX="50%"
+    android:pivotY="50%" />
