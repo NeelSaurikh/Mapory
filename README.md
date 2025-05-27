@@ -11,12 +11,12 @@ Starting from v2.0.0, Mapory displays **real-time weather information** as soon 
 ## 📸 Screenshots
 
 <div align="center">
-  <img src="Images/Screenshot_20250515_122120_Mapory.png" width="250"/>
+  <img src="Images/Weather- Update/Screenshot_20250527_143420_Mapory.jpg" width="250"/>
   <img src="Images/Screenshot_20250515_122127_Mapory.png" width="250"/>
   <img src="Images/Screenshot_20250515_122140_Mapory.png" width="250"/>
   <img src="Images/Screenshot_20250515_122147_Mapory.png" width="250"/>
-  <img src="Images/utils1.png" width="250"/>
-  <img src="Images/utils2.png" width="250"/>
+  <img src="Images/Weather- Update/Screenshot_20250527_143428_Mapory.jpg" width="250"/>
+  <img src="Images/Weather- Update/Screenshot_20250527_145413_Mapory.jpg" width="250"/>
 </div>
 
 ---
@@ -24,7 +24,7 @@ Starting from v2.0.0, Mapory displays **real-time weather information** as soon 
 ## 🎥 Demo
 
 <div align="center">
-  <img src="Images/maporydemo.gif" width="600"/>
+  <img src="Images/Weather- Update/ezgif-3a5156df7bd6e1.gif" width="600"/>
 </div>
 
 ---
