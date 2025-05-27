@@ -13,4 +13,11 @@
     <string name="nil">nil</string>
     <string name="string_nil">60</string>
     <string name="note_text_no_happy_places_found_yet">No Happy Places Found Yet. Kindly Add One</string>
+    <string name="please_wait">Please Wait&#8230;</string>
+
+    <!--    Weather Application-->
+    <string name="Please_Have_Patience">Please Wait&#8230;</string>
+    <string name="image_contentDescription">image</string>
+    <string name="miles_per_hour">miles/hour</string>
+    <string name="action_refresh">Refresh</string>
 </resources>
